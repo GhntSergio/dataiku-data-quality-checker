@@ -2,6 +2,8 @@
 
 Automated data quality profiling for tabular datasets, usable as a **standalone CLI** or inside a **Dataiku DSS Python recipe**. It produces an HTML report plus distribution charts in one run.
 
+![How the data quality checker works](docs/overview.png)
+
 ## What it checks
 
 | Check | Output |
